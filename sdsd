@@ -1,5 +1,7 @@
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|   | agegp | alcgp     | tobgp    |
+|---+-------+-----------+----------|
+| 1 | 25-34 | 0-39g/day | 0-9g/day |
+| 2 | 25-34 | 0-39g/day | 10-19    |
+| 3 | 25-34 | 0-39g/day | 20-29    |
+| 4 | 25-34 | 0-39g/day | 30+      |
+| 5 | 25-34 | 40-79     | 0-9g/day |
